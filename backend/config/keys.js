@@ -1,4 +1,4 @@
 module.exports={
-    MONGOURI:"mongodb+srv://Areeb:QbFGOQNCttNbPKfE@cluster0.pkjif.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-	JWT_SECRET : "QbFGOQNCttNbPKfE"	
+    MONGOURI:"mongodb+srv://admin:123@cluster0.esho8.mongodb.net/UserData?retryWrites=true&w=majority",
+	JWT_SECRET : "123"	
 }

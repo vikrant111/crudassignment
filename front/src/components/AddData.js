@@ -15,7 +15,7 @@ import {connect} from "react-redux"
       }
 
     handleChange=(event)=>{
-        this.setState({ [event.target.name]: event.target.value });
+        // this.setState({ [event.target.name]: event.target.value });
         const { name, value } = event.target;
         this.setState({ [name]: value });
     }
